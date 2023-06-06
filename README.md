@@ -94,13 +94,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/icorvious-code?tab=repositories">
+<a href="https://github.com/icorvious?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=icorvious-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=icorvious&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Lunox's favorite languages" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/icorvious">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=icorvious-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=icorvious&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
