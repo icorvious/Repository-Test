@@ -43,13 +43,13 @@
 
 &nbsp;
 
-📖 In August 2018, I was seriously trying to figure out what iCould do to get into the tech industry. I've always been interested in computers from a creative's point of view. I never thought that one day, coding and all those complex technical kinds of stuff I never cared about would dawn on me and eventually become my career down the road 🔮
+📖 In August 2018, I was seriously trying to figure out what iCould do to get into the tech industry. I've always been interested in computers from a creative's point of view. I never thought that one day, coding and all those complex technical kinds of stuff iNever cared about would dawn on me and eventually become my career down the road 🔮
 
-📖 I first learned to code at the beginning of 2019 as I took the journey to self discover how to code and learn the basics of what coding was and I failed because I wasn't retaining any of the information or remembering formulas
+📖 iFirst learned to code at the beginning of 2019 as iTook the journey to self discover how to code and learn the basics of what coding was and iFailed because iWasn't retaining any of the information or remembering formulas
 
-📖 Not until August 2019 did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
+📖 Not until August 2019 did iACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
 
-📖 Now, I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
+📖 Now, iEnjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
 
 📖 Self-learning is one of the most important and enjoyable parts of my life ☺️
 
